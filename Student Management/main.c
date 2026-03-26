@@ -729,6 +729,10 @@ void receive_email(){
             }
         }
 }
+
+
+
+
 int main(){
     Input();
     char input[20];
