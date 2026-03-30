@@ -16,5 +16,6 @@ int main(int argc,char *argv[]){
     // printf("My whole name is %s %c. %s.\n",
     //         first_name, initial, last_name);
     printf("%s",empty);
+    printf("16=%hd,10=%hd,8=%ho");
     return 0;
 }

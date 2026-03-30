@@ -23,4 +23,8 @@ int main(int argc,char *argv[]){
     int care_percentage = bugs * nul_byte;
     printf("Which means you should care %d%%.\n",
             care_percentage);
+                printf("int: %zu bytes\n", sizeof(int));
+    printf("long: %zu bytes\n", sizeof(long));
+    printf("unsigned long: %zu bytes\n", sizeof(unsigned long));
+            return 0;
 }
