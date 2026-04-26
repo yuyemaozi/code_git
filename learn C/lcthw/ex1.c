@@ -3,4 +3,4 @@ int main(){
     puts("hello,world");
     put(" ab~");
     return 0;
-}
+}//
